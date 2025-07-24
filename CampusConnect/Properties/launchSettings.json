@@ -1,0 +1,24 @@
+{
+  {
+    "iisSettings": {
+      "windowsAuthentication": false,
+      "anonymousAuthentication": true,
+      "iisExpress": {
+        "applicationUrl": "https://localhost:44374/",
+        "sslPort": 44374
+      }
+    },
+    "profiles": {
+      "IIS Express": {
+        "environmentVariables": [],
+        "applicationUrl": "https://localhost:44374/",
+        "sslPort": 44374
+      },
+      "CampusConnect": {
+        "environmentVariables": [],
+        "applicationUrl": "https://localhost:44374/",
+        "sslPort": 44374
+      }
+    }
+  }
+}
