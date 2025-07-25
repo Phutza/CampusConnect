@@ -1,0 +1,1 @@
+designed to improve student communication and access to campus resources. Applied the Software Development Life Cycle (SDLC) to understand and implement each phase of development. Campus Connect was developed using C#, HTML, CSS Javascript, and SQL. The system included features like student management, course registration, and an admin dashboard.
